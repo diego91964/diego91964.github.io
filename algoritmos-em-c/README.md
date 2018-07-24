@@ -3,12 +3,7 @@
 # Técnicas de Programação
 <!-- .element: class="no-toc-progress" --> <!-- slide not in toc progress bar -->
 
-[Diego Silva](https://github.com/diego91964) | [online][1] | [src][2] | [codes][3]
 
-
-[1]: https://diego91964.github.io/unipac/tecnicas-de-programacao-2017-2.html
-[2]: https://github.com/diego91964/unipac/tree/master/disciplinas/tecnicas-de-programacao-2017-2
-[3]: https://github.com/diego91964/tec-unipac/tree/master/tecnicas-unipac
 
 
 

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512.00001 512.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="site-logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9"
+     inkscape:cx="249.39639"
+     inkscape:cy="325.55557"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1533"
+     inkscape:window-height="845"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36216)">
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:80;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 256,540.36216 c -141.3849,0 -256,114.6151 -256,256 0,141.3849 114.6151,256.00004 256,256.00004 141.3849,0 256,-114.61514 256,-256.00004 0,-141.3849 -114.6151,-256 -256,-256 z"
+       id="path4136"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:66.66666412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="44.26498"
+       y="814.49371"
+       id="text899"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         x="44.26498"
+         y="814.49371"
+         style="font-weight:bold">Diego Silva</tspan><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="897.82703"
+         id="tspan901" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="981.1604"
+         id="tspan903" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1064.4937"
+         id="tspan905" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1147.827"
+         id="tspan907" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1231.1603"
+         id="tspan909" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1314.4937"
+         id="tspan911" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1397.8269"
+         id="tspan913" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1481.1603"
+         id="tspan915" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1564.4937"
+         id="tspan917" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1647.8269"
+         id="tspan919" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1731.1603"
+         id="tspan921" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1814.4937"
+         id="tspan923" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1897.8269"
+         id="tspan925" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="1981.1603"
+         id="tspan927" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="2064.4937"
+         id="tspan929" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="2147.8269"
+         id="tspan931" /><tspan
+         sodipodi:role="line"
+         x="44.26498"
+         y="2231.1602"
+         id="tspan933" /></text>
+  </g>
+</svg>
