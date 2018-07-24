@@ -3,7 +3,7 @@
 
 ----
 
-<!-- .slide: data-background="palestras/2018/tdcsp-2018/img/graph.jpg" -->
+<!-- .slide: data-background="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/graph.jpg" -->
 
  <!-- .slide: data-state="dimbg" -->
 
@@ -20,7 +20,7 @@ e pode ajudar você a mudar a vida de outras pessoas.
 
 ----
 
-<!-- .slide: data-background="palestras/2018/tdcsp-2018/img/graph-big-data.png"  -->
+<!-- .slide: data-background="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/graph-big-data.png"  -->
 
  <!-- .slide: data-state="dimbg"  -->
 
@@ -59,7 +59,7 @@ e pode ajudar você a mudar a vida de outras pessoas.
 
 # Dados Existentes
 
-<img src="palestras/2018/tdcsp-2018/img/neo4j-dados-selecionados.png" width = "80%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/neo4j-dados-selecionados.png" width = "80%">
 
 
 ----
@@ -70,7 +70,7 @@ e pode ajudar você a mudar a vida de outras pessoas.
 
 #SQL ?
 
-<img src="palestras/2018/tdcsp-2018/img/neo4j-dados-sql.png" width = "80%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/neo4j-dados-sql.png" width = "80%">
 
 ----
 
@@ -103,7 +103,7 @@ e pode ajudar você a mudar a vida de outras pessoas.
 
 
 
-<!-- .slide: data-background="palestras/2018/tdcsp-2018/img/graph-sample.png"
+<!-- .slide: data-background="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/graph-sample.png"
  -->
 
  <!-- .slide:
@@ -113,7 +113,7 @@ data-state="dimbg"
 
 ----
 
-<!-- .slide: data-background="palestras/2018/tdcsp-2018/img/caixeiro-viajante.jpg"
+<!-- .slide: data-background="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/caixeiro-viajante.jpg"
  -->
 
  <!-- .slide:
@@ -128,7 +128,7 @@ data-state="dimbg"
 # Teoria dos Grafos
 
 
-<!-- .slide: data-background="palestras/2018/tdcsp-2018/img/graph-teory.jpg"
+<!-- .slide: data-background="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/graph-teory.jpg"
  -->
 
  <!-- .slide:
@@ -143,7 +143,7 @@ data-state="dimbg"
 
 ----
 
-<img src="palestras/2018/tdcsp-2018/img/neo4j-dados-propriedades.png" width = "80%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/neo4j-dados-propriedades.png" width = "80%">
 
 ----
 
@@ -152,12 +152,12 @@ data-state="dimbg"
 
 ----
 
-<img src="palestras/2018/tdcsp-2018/img/neo4j-dados-relacionamento.png" width = "80%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/neo4j-dados-relacionamento.png" width = "80%">
 
 ----
 
 
-<img src="palestras/2018/tdcsp-2018/img/neo4j-logo.png" width = "80%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/neo4j-logo.png" width = "80%">
 
 
 
@@ -172,7 +172,7 @@ data-state="dimbg"
 
 ----
 
-<img src="palestras/2018/tdcsp-2018/img/neo4j-dados-estrutura.png" width = "50%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/neo4j-dados-estrutura.png" width = "50%">
 
 
 ----
@@ -184,11 +184,11 @@ data-state="dimbg"
 
 # CARREGAR CSV
 
-<img src="palestras/2018/tdcsp-2018/img/csv-sample.png" width = "60%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/csv-sample.png" width = "60%">
 
 ----
 
-<img src="palestras/2018/tdcsp-2018/img/load-csv.sample.png" width = "60%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/load-csv.sample.png" width = "60%">
 
 
 ```
@@ -399,7 +399,7 @@ RETURN n1 , n2
 ----
 
 
-<img src="palestras/2018/tdcsp-2018/img/qr-git.png" width = "70%">
+<img src="https://github.com/diego91964/diego91964.github.io/blob/master/palestras/tdcsp-2018/img/qr-git.png" width = "70%">
 https://github.com/diego91964/demo-log-neo4j
 
 ----
