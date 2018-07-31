@@ -77,7 +77,7 @@ Um esparso, distribuído e multidimensional map ordenado.
 
 ## NoSQL - Colunas (BigTable)
 
-<img src="palestras/2018/nosql-iftm/img/bigTable.png">
+<img src="img/bigTable.png">
 
 ----
 
@@ -106,7 +106,7 @@ Os bancos de dados orientados a grafo utilizam o conceito entre vértices e ares
 
 ## NoSQL
 
-<img src="palestras/2018/nosql-iftm/img/nosql-f.jpg">
+<img src="img/nosql-f.jpg">
 
 
 ----  ----
@@ -114,7 +114,7 @@ Os bancos de dados orientados a grafo utilizam o conceito entre vértices e ares
 # Prática
 
 
-<img src="palestras/2018/nosql-iftm/img/checklist-1.png">
+<img src="img/checklist-1.png">
 
 
 ----
@@ -195,7 +195,7 @@ Um Database consiste em um container lógico para o usuário, com políticas de 
 
 ## Conceitos - Field Set
 
-<img src="palestras/2018/nosql-iftm/img/field-set-influxdb.jpeg">
+<img src="img/field-set-influxdb.jpeg">
 
 Fonte: [An introduction to InfluxDB](https://www.linkedin.com/pulse/introduction-influxdb-kristof-bruylants)
 
@@ -212,7 +212,7 @@ Fonte: [An introduction to InfluxDB](https://www.linkedin.com/pulse/introduction
 
 ## Conceitos - TagSet
 
-<img src="palestras/2018/nosql-iftm/img/tag-set-influxdb.jpeg">
+<img src="img/tag-set-influxdb.jpeg">
 
 Fonte: [An introduction to InfluxDB](https://www.linkedin.com/pulse/introduction-influxdb-kristof-bruylants)
 
@@ -235,7 +235,7 @@ Consiste na parte do InfluxDB que define os field (Parte principal do InfluxDB).
 
 ## Conceitos - Series
 
-<img src="palestras/2018/nosql-iftm/img/measurement-influxdb.jpeg">
+<img src="img/measurement-influxdb.jpeg">
 
 Fonte: [An introduction to InfluxDB](https://www.linkedin.com/pulse/introduction-influxdb-kristof-bruylants)
 
@@ -243,7 +243,7 @@ Fonte: [An introduction to InfluxDB](https://www.linkedin.com/pulse/introduction
 
 ## Conceitos - Point
 
-<img src="palestras/2018/nosql-iftm/img/points-influxdb.jpeg">
+<img src="img/points-influxdb.jpeg">
 
 Fonte: [An introduction to InfluxDB](https://www.linkedin.com/pulse/introduction-influxdb-kristof-bruylants)
 
@@ -312,7 +312,7 @@ curl -i -XPOST 'http://localhost:8086/query?q=select+threads+from+microservice_s
 ## Influxdb - Web API
 
 
-<img src="palestras/2018/nosql-iftm/img/influxdb-web.png">
+<img src="img/influxdb-web.png">
 
 
 ----
@@ -320,7 +320,7 @@ curl -i -XPOST 'http://localhost:8086/query?q=select+threads+from+microservice_s
 ## Visualização dos Dados
 
 
-<img src="palestras/2018/nosql-iftm/img/checklist-2.png">
+<img src="img/checklist-2.png">
 
 ----
 
@@ -346,7 +346,7 @@ Grafana é uma ferramenta Open Source para visualização de métricas, ela perm
 ## Grafana - Como funciona ?
 
 
-<img src="palestras/2018/nosql-iftm/img/grafana-demo.png">
+<img src="img/grafana-demo.png">
 
 
 ----
@@ -354,7 +354,7 @@ Grafana é uma ferramenta Open Source para visualização de métricas, ela perm
 
 ## Grafana - Como funciona ?
 
-<img src="palestras/2018/nosql-iftm/img/grafana-sample.png">
+<img src="img/grafana-sample.png">
 
 
 ----
@@ -362,7 +362,7 @@ Grafana é uma ferramenta Open Source para visualização de métricas, ela perm
 ## Prática - checklist
 
 
-<img src="palestras/2018/nosql-iftm/img/checklist-3.png">
+<img src="img/checklist-3.png">
 
 
 ----
@@ -387,7 +387,7 @@ a api [Netflix Eureka](https://github.com/Netflix/eureka) para realizar o servic
 ## Eureka Service Discovery
 
 
-<img src="palestras/2018/nosql-iftm/img/eureka-diagram.jpg">
+<img src="img/eureka-diagram.jpg">
 
 Fonte: [HowToDoInJava](https://howtodoinjava.com/spring/spring-cloud/spring-cloud-service-discovery-netflix-eureka/)
 
@@ -420,7 +420,7 @@ $ java -jar service-metrics-influx/target/service-metrics-influx.jar
 
 ## Criando Datasource Grafana
 
-<img src="palestras/2018/nosql-iftm/img/grafana-datasource.png">
+<img src="img/grafana-datasource.png">
 
 ----
 
@@ -428,7 +428,7 @@ $ java -jar service-metrics-influx/target/service-metrics-influx.jar
 
 Importar arquivo grafana/dashboard.json no grafana
 
-<img src="palestras/2018/nosql-iftm/img/grafana-import.png">
+<img src="img/grafana-import.png">
 
 Créditos: [ypvillazon](https://github.com/ypvillazon)
 
@@ -436,7 +436,7 @@ Créditos: [ypvillazon](https://github.com/ypvillazon)
 
 ## Demo Dashboard
 
-<img src="palestras/2018/nosql-iftm/img/grafana-demo-2.png">
+<img src="img/grafana-demo-2.png">
 
 ----  ----
 
@@ -458,7 +458,7 @@ Ter uma grande massa de dados é algo muito bom, desde que você nunca precise d
 ## Dados armazenados
 
 
-<img src="palestras/2018/nosql-iftm/img/neo4j-dados-selecionados.png">
+<img src="img/neo4j-dados-selecionados.png">
 
 
 ----
@@ -482,14 +482,14 @@ Ter uma grande massa de dados é algo muito bom, desde que você nunca precise d
 
 ## Como ficaria em SQL ?
 
-<img src="palestras/2018/nosql-iftm/img/neo4j-dados-sql.png" width = "50%">
+<img src="img/neo4j-dados-sql.png" width = "50%">
 
 ----
 
 ## Como ficaria utilizando grafo?
 
 
-<img src="palestras/2018/nosql-iftm/img/neo4j-dados-estrutura.png" width = "50%">
+<img src="img/neo4j-dados-estrutura.png" width = "50%">
 
 ----
 
@@ -508,7 +508,7 @@ Vamos utilizar o banco [Neo4j](https://neo4j.com/developer/).
 
 ## Neo4j - Relacionamentos
 
-<img src="palestras/2018/nosql-iftm/img/neo4j-dados-relacionamento.png" width = "50%">
+<img src="img/neo4j-dados-relacionamento.png" width = "50%">
 
 
 ----
@@ -516,7 +516,7 @@ Vamos utilizar o banco [Neo4j](https://neo4j.com/developer/).
 
 ## Neo4j - Propriedades
 
-<img src="palestras/2018/nosql-iftm/img/neo4j-dados-propriedades.png" width = "50%">
+<img src="img/neo4j-dados-propriedades.png" width = "50%">
 
 
 ----
@@ -553,7 +553,7 @@ CREATE (n:Person { name: 'Andres', title: 'Developer' })
 
 ## Neo4j - Buscas
 
-<img src="palestras/2018/nosql-iftm/img/neo4j-buscas.png" >
+<img src="img/neo4j-buscas.png" >
 
 ----
 
