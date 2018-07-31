@@ -576,6 +576,7 @@ RETURN user,apl
 
 Quais usuários utilizaram um ip?
 
+
 ```
 
 ## Encontrar um ip que foi possui mais de uma requisição
