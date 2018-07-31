@@ -65,7 +65,7 @@ Os bancos de dados NoSQL são ideais para aplicativos, que exigem maior escalabi
 
 ## NoSQL - Como funcionam ?
 
-Esses bancos de dados usam diversos modelos de dados, incluindo colunas, documentos, grafos e chave-valor.
+Esses bancos de dados usam diversos modelos de dados, incluindo família de Colunas, documentos, grafos e chave-valor.
 
 ----
 
@@ -75,9 +75,9 @@ Um esparso, distribuído e multidimensional map ordenado.
 
 ----
 
-## NoSQL - Colunas (BigTable)
+## NoSQL - Família de Colunas
 
-<img src="img/bigTable.png">
+<img src="img/columnfamilly.png">
 
 ----
 
